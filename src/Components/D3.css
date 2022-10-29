@@ -1,0 +1,26 @@
+.d3{
+    box-sizing: border-box;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+       
+
+}
+.wi{
+    width: 75px;
+}
+.se{
+    background-color: #007bff;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 40px;
+    
+}
+.re{
+    margin: auto;
+    padding: auto;
+}

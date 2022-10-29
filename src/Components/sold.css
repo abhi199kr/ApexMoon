@@ -1,0 +1,23 @@
+.bgso{
+    background-image: url("https://apexmoon.com/img/past-sales-bg2.jpg");
+    height: auto;
+    background-attachment: fixed;
+    padding: 55px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ef{
+    background: rgba(255,255,255,.2);
+    height: auto;
+    padding: 20px 20px 14px;
+    margin: auto;
+    border-radius: 50px;
+    min-width: 296px;
+    margin-top: 50px;
+    color: white;
+}
+.ef:hover{
+    background-color: white;
+    color: black;
+}

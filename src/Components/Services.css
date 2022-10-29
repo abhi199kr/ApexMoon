@@ -1,0 +1,10 @@
+.bgs{
+    background-image: url("https://apexmoon.com/img/services-bg.jpg");
+    height: auto;
+}
+.is{
+    height: 80px;
+    width: 75px;
+    margin: auto;
+    padding: auto;
+}

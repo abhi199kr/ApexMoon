@@ -1,0 +1,20 @@
+.ldiv{
+   /* margin-left: auto;
+   margin-right: 200px;
+    color: black; */
+    /* margin: auto; */
+    margin-left: auto;
+}
+.bgg{
+    background-color: #343a40;;
+}
+
+.contact{
+    background-image:linear-gradient(45deg,#43cea2 0%,#185a9d 100%);
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 40px;
+    margin-top: -10px;
+}

@@ -1,0 +1,35 @@
+.bgf{
+    background-image: url("https://apexmoon.com/img/domain-for-sale-bg2.jpg");
+    height:auto;
+    width: 100%;
+    padding: 50px 0;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* margin: 50px; */
+}
+.fca{
+    margin-left: 50px;
+    height: auto;
+    padding: 50px 0;
+    border-radius: 50px;
+    background: rgba(255,255,255,.7);
+    width: max-content
+}
+.contactf{
+   
+    
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 40px;
+    border: 2px solid blueviolet;
+    color:  blueviolet;
+    margin-top: 50px;
+}
+.contactf:hover{
+    background-image:linear-gradient(45deg,#43cea2 0%,#185a9d 100%);
+}
+.mrow{
+    margin: 50px;
+}

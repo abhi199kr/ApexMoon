@@ -1,0 +1,15 @@
+.bgco{
+    background-image: linear-gradient(to right,#43cea2 0%,#185a9d 100%);
+    height: auto;
+    padding: 40px 0 150px;
+    text-align: center;
+}
+.contacts{
+    background-image:black;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 40px;
+    margin-top: -10px;
+}
