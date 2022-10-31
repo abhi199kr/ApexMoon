@@ -10,10 +10,11 @@
 }
 .wi{
     width:60px;
+    
    
 }
 .wi:hover{
-    background-color:#007bff;
+  
 }
 .se{
     background-color: #007bff;
@@ -59,4 +60,104 @@
 }
 .img1:hover{
    
+}
+.a{
+    background-image: url("https://apexmoon.com/img/global-expert.svg");
+    
+   
+    
+    height: 75px;
+    
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    
+}
+.b{
+    background-image: url("https://apexmoon.com/img/Trustworthy.svg");
+    
+   
+    
+    height: 75px;
+    
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    
+}
+.c{
+    background-image: url("https://apexmoon.com/img/Proven-Success.svg");
+    
+   
+    
+    height: 75px;
+    
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    
+}
+.d{
+    background-image: url("https://apexmoon.com/img/Confidentiality.svg");
+    
+   
+    
+    height: 75px;
+    
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    
+}
+.a:hover{
+    background-image: url("https://apexmoon.com/img/global-expert-h.svg");
+    color: black;
+}
+.b:hover{
+    background-image: url("https://apexmoon.com/img/Trustworthy-h.svg");
+    color: black;
+}
+.c:hover{
+    background-image: url("https://apexmoon.com/img/Proven-Success-h.svg");
+    color: black;
+}
+.d:hover{
+    background-image: url("https://apexmoon.com/img/Confidentiality-h.svg");
+    color: black;
+}
+.a p{
+    /* display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    padding-top: 80px;
+    width: auto;
+    
+}
+.b p{
+    /* display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    padding-top: 80px;
+    width: auto;
+    
+}
+.c p{
+    /* display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    padding-top: 80px;
+    width: auto;
+    
+}
+.d p{
+    /* display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    padding-top: 80px;
+    width: auto;
+    
 }
