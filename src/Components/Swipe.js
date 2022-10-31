@@ -33,7 +33,7 @@ const Swipe = () => {
     },
   }}
       >
- <div className="co">
+ <div className="d-flex gap-5">
     <SwiperSlide>
     <div className='px-5 fca text-center'>
         <h3>TLF.com</h3>

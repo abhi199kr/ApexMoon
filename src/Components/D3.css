@@ -43,6 +43,15 @@
    
     
 }
+@media screen and (min-width: 1200px) {
+    .tc{
+        padding-left: 400px;
+        padding-right:400px;
+        margin: auto;
+    }
+   
+    
+}
 .hc:hover{
 
     color: #007bff;

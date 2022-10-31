@@ -37,10 +37,10 @@ const Sold = () => {
   }}
       >
 
- <div className="row"></div>
+ <div className="row mx-5"></div>
     <SwiperSlide>
     
-      <div className=' col-6 ef'>
+      <div className=' col-4 ef'>
          <h1 className='text-center '>Opinion.com</h1>
        </div>
      
@@ -48,42 +48,42 @@ const Sold = () => {
 
 <SwiperSlide>
     
-      <div className='col-6 ef'>
+      <div className='col-4 ef'>
          <h1 className='text-center '>Rash.com</h1>
        </div>
      
 </SwiperSlide>
 <SwiperSlide>
     
-    <div className='col-6 ef'>
+    <div className='col-4 ef'>
        <h1 className='text-center '>Nui.com</h1>
      </div>
    
 </SwiperSlide>
 <SwiperSlide>
     
-    <div className='col-6 ef'>
+    <div className='col-4 ef'>
        <h1 className='text-center '>Christy.com</h1>
      </div>
    
 </SwiperSlide>
 <SwiperSlide>
     
-    <div className='col-6 ef'>
+    <div className='col-4 ef'>
        <h1 className='text-center '>Opinion.com</h1>
      </div>
    
 </SwiperSlide>
 <SwiperSlide>
     
-    <div className='col-6 ef'>
+    <div className='col-4 ef'>
        <h1 className='text-center '>Opinion.com</h1>
      </div>
    
 </SwiperSlide>
 <SwiperSlide>
     
-    <div className='col-6 ef'>
+    <div className='col-4 ef'>
        <h1 className='text-center '>Opinion.com</h1>
      </div>
    

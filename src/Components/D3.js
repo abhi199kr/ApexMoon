@@ -11,10 +11,13 @@ const D3 = () => {
       </p>
 
       <div className='row re'>
-      <div className="col-md-3 hc">
-       {/* <p> <img src="https://apexmoon.com/img/global-expert.svg" className='wi' alt="" /></p> */}
+      {/* <div className="col-md-3 hc">
        <img src="https://apexmoon.com/img/global-expert.svg" className='wi' alt="" />
         <p>Global Expert</p>
+      </div> */}
+      <div className="col-md-3 -pt-2">
+      <img className='wi' src="https://apexmoon.com/img/global-expert.svg" alt="" />
+      <p>Global Expert</p>
       </div>
       <div className="col-md-3 hc">
         <img src="https://apexmoon.com/img/Trustworthy.svg" className='wi' alt="" />
