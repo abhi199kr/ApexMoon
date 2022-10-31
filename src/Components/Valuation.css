@@ -1,4 +1,25 @@
 .bgv{
     background-image: url("https://apexmoon.com/img/Domain-Valuation-&-Guidance.jpg");
     height:auto;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-position-x:62%;
+   
+    /* padding-left: 170px!important; */
+    object-fit: cover;
+    /* display: flex; */
+    align-items: center;
+}
+.myvb{
+    padding: 20px 0;
+    
+    width: 46%;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 92px;
 }

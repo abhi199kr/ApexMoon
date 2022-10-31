@@ -1,10 +1,27 @@
 .bgs{
     background-image: url("https://apexmoon.com/img/services-bg.jpg");
     height: auto;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+   
+    /* padding-left: 170px!important; */
+    object-fit: cover;
+    /* display: flex; */
+    align-items: center;
 }
 .is{
     height: 80px;
     width: 75px;
     margin: auto;
     padding: auto;
+}
+
+.white{
+    height: 2px;
+    width: 50px;
+    margin: auto;
+    background-image: linear-gradient(to right,#43cea2 0%,#185a9d 100%);
 }

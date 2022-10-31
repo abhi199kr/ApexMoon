@@ -5,7 +5,8 @@ const Services = () => {
   return (
     <div className='bgs'>
     <div className='container'>
-    <h1 className='text-center'>Services</h1>
+    <h1 className='text-center bord'>Services</h1>
+    <div className='white'></div>
     {/* Row grid */}
     <div className="row my-5">
         <div className='col-md-3'>

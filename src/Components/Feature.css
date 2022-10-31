@@ -9,12 +9,18 @@
     /* margin: 50px; */
 }
 .fca{
-    margin-left: 50px;
+    /* margin-left: 70px;
+    margin-right: 70px; */
+   
+   padding: 100px;
     height: auto;
-    padding: 50px 0;
+    padding: 70px;
     border-radius: 50px;
     background: rgba(255,255,255,.7);
     width: max-content
+}
+.co{
+    margin-left: auto;
 }
 .contactf{
    
@@ -32,4 +38,8 @@
 }
 .mrow{
     margin: 50px;
+}
+.ff{
+    font-weight:700;
+    font-size: larger;
 }

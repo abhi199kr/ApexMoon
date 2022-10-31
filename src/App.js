@@ -14,6 +14,7 @@ import Contact from './Components/Contact';
 import Feature from './Components/Feature';
 import Swipe from './Components/Swipe';
 import Sold from './Components/Sold';
+import Footeru from './Components/Footeru';
 
 function App() {
   return (
@@ -32,7 +33,7 @@ function App() {
       <Valuation/>
       <Portfolio/>
       <Contact/>
-      
+      <Footeru/>
       <Footer/>
     </>
   );

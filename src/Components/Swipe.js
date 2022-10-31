@@ -13,10 +13,9 @@ import { Autoplay, Pagination, Navigation } from "swiper";
 const Swipe = () => {
   return (
     <div className="container-fluid bgf">
+    <h2 className='text-center mb-5'><strong className='ff'>Featured</strong> Domain's</h2>
     <Swiper
-        pagination={{
-          type: "fraction",
-        }}
+       
         navigation={true}
         modules={[Pagination, Navigation]}
         className="mySwiper"
@@ -34,7 +33,7 @@ const Swipe = () => {
     },
   }}
       >
- <div className="">
+ <div className="co">
     <SwiperSlide>
     <div className='px-5 fca text-center'>
         <h3>TLF.com</h3>

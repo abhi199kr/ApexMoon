@@ -8,7 +8,7 @@ const Valuation = () => {
         <div className='col-md-6 col-sm-12'>
 
         </div>
-        <div className='col-md-6 col-sm-12'>
+        <div className='col-md-6 col-sm-12 myvb'>
             <h1>Domain Valuation & Guidance</h1>
             <p>Do you own a domain name and want to know its true value? Are you looking to acquire a domain name and want to know how much you should pay?
             </p>

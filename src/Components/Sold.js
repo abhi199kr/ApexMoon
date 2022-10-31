@@ -15,11 +15,10 @@ const Sold = () => {
     <>
     <div className='bgso'>
    <div className='h1 text-center text-light'>Domain's We sold</div>
+   <div className='white'></div>
    
  <Swiper
-        pagination={{
-          type: "fraction",
-        }}
+        
         navigation={true}
         modules={[Pagination, Navigation]}
         className="mySwiper"

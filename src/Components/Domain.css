@@ -1,6 +1,15 @@
 .bgd{
     background-image: url("https://apexmoon.com/img/domain-brokerage-bg.jpg");
     height: auto;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    /* padding-left: 170px!important; */
+    object-fit: cover;
+    /* display: flex; */
+    align-items: center;
 }
 .myd{
     

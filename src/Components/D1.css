@@ -1,9 +1,17 @@
 .bg1{
     background-image: url("https://apexmoon.com/img/apex-moon-hero.jpg");
     background-image: -moz-linear-gradient();
-    width:auto;
-    height: 500px;
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    text-align: center;
 }
 .pw{
     padding-top: 200px;
+    padding-bottom: 200px;
 }

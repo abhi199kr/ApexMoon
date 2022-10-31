@@ -9,7 +9,11 @@
 
 }
 .wi{
-    width: 75px;
+    width:60px;
+   
+}
+.wi:hover{
+    background-color:#007bff;
 }
 .se{
     background-color: #007bff;
@@ -20,7 +24,30 @@
     border-radius: 40px;
     
 }
+.bl{
+    text-align: start;
+}
 .re{
     margin: auto;
     padding: auto;
+}
+.tc{
+    padding: 20px;
+}
+@media screen and (min-width: 992px) {
+    .tc{
+        padding-left: 200px;
+        padding-right:200px;
+        margin: auto;
+    }
+   
+    
+}
+.hc:hover{
+
+    color: #007bff;
+    
+}
+.img1:hover{
+   
 }

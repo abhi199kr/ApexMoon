@@ -35,7 +35,7 @@ const Stealth = () => {
             </div>
 
             </div>
-            <div>
+            <div className='col-md-5'>
                 <img src="https://apexmoon.com/img/domain-acquisition-man.png" className='si img-fluid' alt="" />
             </div>
         </div>
