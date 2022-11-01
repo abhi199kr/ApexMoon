@@ -38,11 +38,12 @@ const Footeru = () => {
         </div>
         <div className='col-lg-3 col-md-3 col-sm-6 col-12'>
         <h6>Proud partners</h6>
-        <img src="https://secureapi.escrow.com/api/ecart/Content/Images/Affiliate%20Banners/banner-125x125.gif
+        <div className="d-flex">
+        <img className='img-fluid w-25 h-25 hi' src="https://secureapi.escrow.com/api/ecart/Content/Images/Affiliate%20Banners/banner-125x125.gif
         " alt="" />
-          <img src="https://secureapi.escrow.com/api/ecart/Content/Images/Affiliate%20Banners/banner-125x125.gif
+          <img className='img-fluid w-50 hi' src="https://internetcommerce.org/ica-files/images/image.php?id=521184
         " alt="" />
-
+        </div>
 
         </div>
     </div>
