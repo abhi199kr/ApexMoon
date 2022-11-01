@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ApexMoon/static/css/main.361cdd32.css",
-    "main.js": "/ApexMoon/static/js/main.24c90ab7.js",
+    "main.css": "/ApexMoon/static/css/main.b6d5ca44.css",
+    "main.js": "/ApexMoon/static/js/main.777e0709.js",
     "static/js/787.f4ab7183.chunk.js": "/ApexMoon/static/js/787.f4ab7183.chunk.js",
     "static/media/logo.svg": "/ApexMoon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ApexMoon/index.html",
-    "main.361cdd32.css.map": "/ApexMoon/static/css/main.361cdd32.css.map",
-    "main.24c90ab7.js.map": "/ApexMoon/static/js/main.24c90ab7.js.map",
+    "main.b6d5ca44.css.map": "/ApexMoon/static/css/main.b6d5ca44.css.map",
+    "main.777e0709.js.map": "/ApexMoon/static/js/main.777e0709.js.map",
     "787.f4ab7183.chunk.js.map": "/ApexMoon/static/js/787.f4ab7183.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.361cdd32.css",
-    "static/js/main.24c90ab7.js"
+    "static/css/main.b6d5ca44.css",
+    "static/js/main.777e0709.js"
   ]
 }
