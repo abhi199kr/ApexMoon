@@ -4,6 +4,23 @@
 .wlogo{
     width: 500px;
 }
-.bgape{
-    background-image: url("https://apexmoon.com/img/footer-bg.png");
+
+@media screen and (min-width:768px) {
+    .bgape{
+        background-image: url("https://apexmoon.com/img/footer-bg.png");
+        background-size: cover;
+       
+        margin-top: -130px;
+        padding: 30px;
+        object-fit: contain;
+        /* margin: auto; */
+       
+        
+    }
+
+    
+}
+.mti{
+    margin-top: 75px;
+    margin-bottom: -25px;
 }

@@ -3,37 +3,13 @@ import "./Footeru.css"
 
 const Footeru = () => {
   return (
-    <div className='mx-5'>
-    <div className="text-center bgape my-5">
+    <div className='bgape img-fluid'>
+
+    <div className="text-center mti">
         <img className='wia img-fluid' src="https://apexmoon.com/img/apex-moon-logo.svg" alt="" />
     </div>
-    {/* <div className='d-flex flex-wrap flex-md-row flex-column gap-5 justify-content-center'>
-    <div>
-        <h5>Buy Dominos</h5>
-        <p>Past Sales</p>
-        <p>About Us</p>
-    </div>
-    <div>
-        <h5>Buy Dominos</h5>
-        <p>Past Sales</p>
-        <p>About Us</p>
-    </div>
-    <div>
-        <h5>Buy Dominos</h5>
-        <p>Past Sales</p>
-        <p>About Us</p>
-    </div>
-    <div>
-        <h5>Proud Partners</h5>
-        <img src="https://secureapi.escrow.com/api/ecart/Content/Images/Affiliate%20Banners/banner-125x125.gif
-        " alt="" />
-          <img src="https://secureapi.escrow.com/api/ecart/Content/Images/Affiliate%20Banners/banner-125x125.gif
-        " alt="" />
-        
-    </div>
-
-    </div> */}
-    <div className="row">
+  
+    <div className="row px-5 mt-5">
         <div className='col-lg-3 col-md-3 col-sm-6 col-12'>
         <h6>Buy Dominos</h6>
         <h6>Past Sales</h6>
