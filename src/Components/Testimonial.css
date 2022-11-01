@@ -1,0 +1,9 @@
+.bgt{
+    background-image: url("https://apexmoon.com/img/testimonils-bg.jpg");
+    background-attachment: fixed;
+    padding: 55px 0 55px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}

@@ -4,7 +4,7 @@ import "./Valuation.css"
 const Valuation = () => {
   return (
     <div className='bgv'>
-    <div className="d-flex flex-md-row flex-sm-column container myd">
+    <div className="d-flex flex-md-row flex-column container myd">
         <div className='col-md-6 col-sm-12'>
 
         </div>

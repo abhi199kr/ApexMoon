@@ -15,6 +15,9 @@ import Feature from './Components/Feature';
 import Swipe from './Components/Swipe';
 import Sold from './Components/Sold';
 import Footeru from './Components/Footeru';
+import Testimonial from './Components/Testimonial';
+import { Carousel } from 'react-bootstrap';
+import Need from './Components/Need';
 
 function App() {
   return (
@@ -33,6 +36,9 @@ function App() {
       <Valuation/>
       <Portfolio/>
       <Contact/>
+      <Testimonial/>
+      {/* <Carousel/> */}
+      <Need/>
       <Footeru/>
       <Footer/>
     </>

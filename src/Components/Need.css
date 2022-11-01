@@ -1,0 +1,97 @@
+.bgn{
+    background-image: url("https://apexmoon.com/img/contact-us-bg.jpg");
+    padding-top: 50px;
+    padding-bottom: 200px;
+    background-size: cover;
+}
+.db{
+    display: block;
+}
+label{
+    margin-left:30px;
+}
+input{
+    background: 0 0;
+    border-radius: 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    transition: .4s;
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+textarea{
+    background: 0 0;
+    border-radius: 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    transition: .4s;
+    height: 125px;
+
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.send{
+    background: #272d3b;
+    border: none;
+    
+    border-radius: 40px;
+    margin-top: -10px;
+    width: fit-content;
+    margin: auto;
+}
+.ico{
+    width: 20px;
+    height: 22px;
+}
+.wco{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.wcot{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #007bff;
+}
+.cu{
+    margin-top: 10px;
+}
+.call{
+    font-size: normal;
+}
+.num{
+    margin-top: -20px;
+}
+.cus{
+    margin-top: 35px;
+}
+.icot{
+    background-color:#007bff;
+}
+@media screen and (min-width: 992px) {
+    .tl{
+        padding:0 200px 0 200px;
+        /* background-color: red; */
+    }
+}
+/* .tl{
+    padding: 0 50px 0 50px;
+    
+} */
+
+@media screen and (max-width: 992px) {
+    .tl{
+        padding:0 50px 0 50px;
+        /* background-color: red; */
+    }
+}
